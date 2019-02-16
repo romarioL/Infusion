@@ -76,8 +76,9 @@ img {
     position: absolute;
     top: 0;
     left: 0;
-    
+    margin: 0;
 }
+
 
 
 .js .laptop-slider  figure.show{
@@ -459,7 +460,7 @@ img {
     .last-articles-thumbs{
         grid-template-columns: repeat(6, 1fr);
     }
-
+    
     .footer .container {
         display: flex;
     }
